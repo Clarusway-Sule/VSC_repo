@@ -1,0 +1,1 @@
+bu dosya local de oluştu
